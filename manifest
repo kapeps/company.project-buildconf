@@ -17,7 +17,6 @@ package_sets:
 layout:
    - rock.core
    - simulation/rock_gazebo
-   - bundles/common_models
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the package_sets above
    # - rock.ros
