@@ -8,3 +8,5 @@
     github: rock-gazebo/control-orogen-cart_ctrl_wdls
 - gui/rock_widget_collection:
     branch: make_qwt5_optional
+- control/ruby_sdformat:
+    branch: fix_corner_cases_in_sdf_handling
