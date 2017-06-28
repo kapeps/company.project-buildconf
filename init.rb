@@ -17,3 +17,4 @@ Autobuild::CMake.show_make_messages = true
 Autoproj.config.separate_prefixes = true
 Autobuild::CMake.delete_obsolete_files_in_prefix = Autoproj.config.separate_prefixes?
 
+Autoproj.config.set 'ROCK_SELECTED_FLAVOR', 'master'
