@@ -1,5 +1,3 @@
-- tools/orocos.rb:
-    branch: optimizations
 - tools/metaruby:
     branch: syskit2-test-refactoring
 - tools/roby:
