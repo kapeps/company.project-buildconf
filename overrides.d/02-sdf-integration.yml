@@ -1,6 +1,0 @@
-- control/robot_frames:
-    branch: fix_compilation_warnings
-- control/orogen/robot_frames:
-    github: rock-gazebo/control-orogen-robot_frames
-- control/orogen/cart_ctrl_wdls:
-    github: rock-gazebo/control-orogen-cart_ctrl_wdls

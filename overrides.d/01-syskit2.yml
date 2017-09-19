@@ -1,6 +1,0 @@
-- tools/metaruby:
-    branch: syskit2-test-refactoring
-- tools/roby:
-    branch: roby3-test-refactoring
-- tools/syskit:
-    branch: syskit2-test-refactoring
