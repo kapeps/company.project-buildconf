@@ -17,6 +17,8 @@ package_sets:
 layout:
    - rock.core
    - rock.gazebo
+   - control/orogen/cart_ctrl_wdls
+   - control/orogen/robot_frames
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the package_sets above
    # - rock.ros
