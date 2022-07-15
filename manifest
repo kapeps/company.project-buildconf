@@ -8,6 +8,8 @@ package_sets:
    - github: rock-core/rock-package_set
    - github: rock-tutorials/tutorials-package_set
    - github: rock-gazebo/package_set
+   - type: git
+     url: git@github.com:kapeps/-company.project-package_set.git
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the layout below
    # - gitorious: rock-ros/package_set
@@ -17,8 +19,7 @@ package_sets:
 layout:
    - rock.core
    - rock.gazebo
-   - control/orogen/cart_ctrl_wdls
-   - control/orogen/robot_frames
+   - company.project
    # Uncomment to enable the Rock/ROS bridge
    # You will also have to uncomment some lines in the package_sets above
    # - rock.ros
